@@ -12,4 +12,4 @@ RISK.pdf : My Project Guideline including the Design, Implementation and Testing
 
 RISK.py : Program file
 
-Database/ProjectDb.db : Database for the Program
+ProjectDb.db : Database for the Program
