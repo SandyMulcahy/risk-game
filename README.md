@@ -6,8 +6,6 @@ It runs on a Tkinter GUI and uses SQLite to manage the database.
 
 Files:
 
-RISK.pdf               | My Project Guideline inlcuding the Design, Implementation and Testing processes
-                       |
-RISK.py                | Program file
-                       |
-Database/ProjectDb.db  | Database for the Program
+RISK.pdf : My Project Guideline inlcuding the Design, Implementation and Testing processes
+RISK.py : Program file
+Database/ProjectDb.db : Database for the Program
